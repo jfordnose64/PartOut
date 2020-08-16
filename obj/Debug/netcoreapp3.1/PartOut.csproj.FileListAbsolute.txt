@@ -1,0 +1,5 @@
+/Users/jacksonford/Projects/PartOut/PartOut/obj/Debug/netcoreapp3.1/PartOut.csprojAssemblyReference.cache
+/Users/jacksonford/Projects/PartOut/PartOut/obj/Debug/netcoreapp3.1/PartOut.AssemblyInfoInputs.cache
+/Users/jacksonford/Projects/PartOut/PartOut/obj/Debug/netcoreapp3.1/PartOut.AssemblyInfo.cs
+/Users/jacksonford/Projects/PartOut/PartOut/obj/Debug/netcoreapp3.1/PartOut.csproj.CoreCompileInputs.cache
+/Users/jacksonford/Projects/PartOut/PartOut/obj/Debug/netcoreapp3.1/PartOut.MvcApplicationPartsAssemblyInfo.cache
